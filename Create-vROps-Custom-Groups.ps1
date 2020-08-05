@@ -4,7 +4,7 @@
 	 Created with: 	Powershell Core
 	 Created on:   	02/07/2020
 	 Created by:   	leifc
-	 Organization: 	Conagra Brands
+	 Organization: 	[]
 	 Filename:     	Create-vROps-Custom-Groups.ps1
 	===========================================================================
 	.DESCRIPTION
